@@ -13,6 +13,7 @@ const Header = (props) => {
   </View>
   );
     };
+    
 
 //styling
 const styles = {
